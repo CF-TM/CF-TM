@@ -44,6 +44,7 @@ My interest and expertise is mostly programming and I try to be at least up to d
   <a href="https://github.com/CF-TM">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=CF-TM&show_icons=true&hide_border=true&title_color=19F68B&amp&icon_color=19F68B&amp&text_color=A0A0A0&amp&bg_color=191919&count_private=true&include_all_commits=true"/>
   </a>
+    <br><br>
   <a href="https://github.com/CF-TM">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CF-TM&text_color=A0A0A0&bg_color=191919&title_color=19F68B&langs_count=15&layout=compact&hide_border=true" />
   </a>

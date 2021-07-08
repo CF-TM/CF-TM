@@ -1,6 +1,6 @@
 <div align="center">
-    <p><img src="https://cdn.discordapp.com/attachments/859453855090475019/862415526080675850/gbanner3.png"
-            alt="github.com/CF-TM/CF-TM" /></p>
+    <a href="https://discord.gg/QhxE9pwwuM"><img src="https://cdn.discordapp.com/attachments/859453855090475019/862415526080675850/gbanner3.png"
+            alt="github.com/CF-TM/CF-TM" /></a>
 </div>
 <h3 align="center">Hey there, I'm <a href="https://foxteam.ir/">Sadra Khorami</a> - Mr.Fox <img
         src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28" />
